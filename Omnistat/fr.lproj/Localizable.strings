@@ -1,0 +1,266 @@
+/* 
+  Localizable.strings
+  Omnistat
+
+  Created by Mathieu Bolard on 11/09/2014.
+  Copyright (c) 2014 Mathieu Bolard. All rights reserved.
+*/
+
+
+/* No comment provided by engineer. */
+"BATTERY_AUDIO_TIME" = "Lecture audio :";
+
+/* No comment provided by engineer. */
+"BATTERY_BROWSING_TIME" = "Navigation internet :";
+
+/* No comment provided by engineer. */
+"BATTERY_CAPACITY" = "Capacité :";
+
+/* No comment provided by engineer. */
+"BATTERY_CHARGING" = "En charge";
+
+/* No comment provided by engineer. */
+"BATTERY_FULL" = "Chargée";
+
+/* No comment provided by engineer. */
+"BATTERY_PERCENTAGE" = "Batterie :";
+
+/* No comment provided by engineer. */
+"BATTERY_REMAINING" = "Restant...";
+
+/* No comment provided by engineer. */
+"BATTERY_STANDBY_TIME" = "Veille :";
+
+/* No comment provided by engineer. */
+"BATTERY_STATE" = "Etat :";
+
+/* No comment provided by engineer. */
+"BATTERY_TALK_TIME" = "Communication en 3G :";
+
+/* No comment provided by engineer. */
+"BATTERY_UNKNOWN" = "Inconnu";
+
+/* No comment provided by engineer. */
+"BATTERY_UNPLUGGED" = "Débranchée";
+
+/* No comment provided by engineer. */
+"BATTERY_VOLTAGE" = "Tension :";
+
+/* No comment provided by engineer. */
+"BYTE" = "o";
+
+/* No comment provided by engineer. */
+"CELL_CARRIER" = "Opérateur :";
+
+/* No comment provided by engineer. */
+"CELL_DATA_USAGE" = "Utilisation :";
+
+/* No comment provided by engineer. */
+"CELL_IP" = "IP :";
+
+/* No comment provided by engineer. */
+"CPU_ACTIVITY" = "Activité :";
+
+/* No comment provided by engineer. */
+"CPU_CORE_NUMBER" = "Coeur n°%li";
+
+/* No comment provided by engineer. */
+"CPU_CORES" = "Nombre de cœurs :";
+
+/* No comment provided by engineer. */
+"CPU_FREQUENCY" = "Fréquence :";
+
+/* No comment provided by engineer. */
+"CPU_LOADAVG" = "Charge Moyenne :";
+
+/* No comment provided by engineer. */
+"CPU_PROCESSES" = "Processus :";
+
+/* No comment provided by engineer. */
+"CPU_TYPE" = "Type :";
+
+/* No comment provided by engineer. */
+"D_DAY" = "j";
+
+/* No comment provided by engineer. */
+"D_HOUR" = "h";
+
+/* No comment provided by engineer. */
+"D_MINUTE" = "min";
+
+/* No comment provided by engineer. */
+"DEVICE_MODEL" = "Modèle :";
+
+/* No comment provided by engineer. */
+"DEVICE_NAME" = "Nom :";
+
+/* No comment provided by engineer. */
+"DEVICE_UPTIME" = "Allumé depuis :";
+
+/* No comment provided by engineer. */
+"MEMORY_ACTIVE" = "Active :";
+
+/* No comment provided by engineer. */
+"MEMORY_FREE" = "Libre :";
+
+/* No comment provided by engineer. */
+"MEMORY_INACTIVE" = "Inactive :";
+
+/* No comment provided by engineer. */
+"MEMORY_WIRED" = "Résidente :";
+
+/* No comment provided by engineer. */
+"NOT_AVAILABLE" = "Indisponible";
+
+/* No comment provided by engineer. */
+"NUMBER_MATCHING_PROCESSES" = "%d processus correspondants";
+
+/* No comment provided by engineer. */
+"NUMBER_PROCESSES" = "%d processus";
+
+/* No comment provided by engineer. */
+"STORAGE_FREE" = "Libre :";
+
+/* No comment provided by engineer. */
+"STORAGE_USED" = "Utilisé :";
+
+/* Titre widget Battery */
+"TITLE_BATTERY" = "BATTERIE";
+
+/* Titre widget Cell */
+"TITLE_CELLULAR" = "CELLULAIRE";
+
+/* Titre widget CPU */
+"TITLE_CPU" = "PROCESSEUR";
+
+/* No comment provided by engineer. */
+"TITLE_CPU_TABLE" = "Coeurs";
+
+/* Titre widget Device */
+"TITLE_DEVICE" = "APPAREIL";
+
+/* Titre widget Memory */
+"TITLE_MEMORY" = "MEMOIRE - %@";
+
+/* Titre page Processes */
+"TITLE_PROCESSES" = "Processus";
+
+/* Titre widget Storage */
+"TITLE_STORAGE" = "STOCKAGE - %@";
+
+/* Titre widget Wifi */
+"TITLE_WIFI" = "WIFI";
+
+/* No comment provided by engineer. */
+"W_BATTERY_AUDIO_TIME" = " d'audio";
+
+/* No comment provided by engineer. */
+"W_BATTERY_BROWSING_TIME" = " d'internet";
+
+/* No comment provided by engineer. */
+"W_BATTERY_STANDBY_TIME" = " en veille";
+
+/* No comment provided by engineer. */
+"W_BATTERY_TALK_TIME" = " d'appel";
+
+/* No comment provided by engineer. */
+"W_CPU_AVG" = "Avg:";
+
+/* No comment provided by engineer. */
+"W_CPU_CORES" = "cœurs";
+
+/* No comment provided by engineer. */
+"W_CPU_FREQUENCY" = "Fréquence:";
+
+/* No comment provided by engineer. */
+"W_CPU_TYPE" = "CPU: ";
+
+/* No comment provided by engineer. */
+"W_DEVICE_MODEL" = "Modèle :";
+
+/* No comment provided by engineer. */
+"W_DEVICE_NAME" = "Nom :";
+
+/* No comment provided by engineer. */
+"W_DEVICE_UPTIME" = "Allumé depuis :";
+
+/* No comment provided by engineer. */
+"W_MEMORY_ACTIVE" = "Active";
+
+/* No comment provided by engineer. */
+"W_MEMORY_FREE" = "Libre";
+
+/* No comment provided by engineer. */
+"W_MEMORY_INACTIVE" = "Inactive";
+
+/* No comment provided by engineer. */
+"W_MEMORY_TOTAL" = "Total :";
+
+/* No comment provided by engineer. */
+"W_MEMORY_WIRED" = "Résidente";
+
+/* No comment provided by engineer. */
+"W_NETWORK_CELL" = "CELL";
+
+/* No comment provided by engineer. */
+"W_NETWORK_NO_NETWORK" = "Aucune connexion";
+
+/* No comment provided by engineer. */
+"W_NETWORK_WIFI" = "WIFI";
+
+/* No comment provided by engineer. */
+"W_STORAGE_FREE" = "Libre";
+
+/* No comment provided by engineer. */
+"W_STORAGE_TOTAL" = "Total :";
+
+/* No comment provided by engineer. */
+"W_STORAGE_USED" = "Utilisé";
+
+/* No comment provided by engineer. */
+"WIFI_DATA_USAGE" = "Utilisation :";
+
+/* No comment provided by engineer. */
+"WIFI_ESSID" = "ESSID :";
+
+/* No comment provided by engineer. */
+"WIFI_IP" = "IP :";
+
+/* Settings page title */
+"SETTINGS_TITLE" = "Réglages";
+
+/* Autoreset cellular data switch */
+"SETTINGS_CELL_AUTORESET" = "Réinitialiser automatiquement";
+
+/* Cellular data plan type */
+"SETTINGS_CELL_PLAN" = "Type d'abonnement";
+
+/* Cellular data plan start date */
+"SETTINGS_CELL_START" = "Date de début";
+
+/* Data downloaded */
+"SETTINGS_DATA_DL" = "Téléchargé";
+
+/* Data uploaded */
+"SETTINGS_DATA_UL" = "Téléversé";
+
+/* Reset Cellular Data */
+"SETTINGS_CELL_RESET" = "Réinitialiser les données";
+
+/* Reset Wifi Data */
+"SETTINGS_WIFI_RESET" = "Réinitialiser les données";
+
+/* Rewiew Omnistat */
+"SETTINGS_REVIEW" = "Noter Omnistat";
+
+/* Cellular plan monthly */
+"PLAN_MONTHLY" = "Mensuel";
+
+/* Cellular plan weekly */
+"PLAN_WEEKLY" = "Hebdomadaire";
+
+/* Cellular plan daily */
+"PLAN_DAILY" = "Quotidien";
+
+/* Last reset string (in the settings) */
+"LAST_RESET" = "Réinitialisé le";

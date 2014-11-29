@@ -1,0 +1,266 @@
+/* 
+  Localizable.strings
+  Omnistat
+
+  Created by Mathieu Bolard on 11/09/2014.
+  Copyright (c) 2014 Mathieu Bolard. All rights reserved.
+*/
+
+
+/* Remaining audio playback time */
+"BATTERY_AUDIO_TIME" = "Audio playback:";
+
+/* Remaining browsing time */
+"BATTERY_BROWSING_TIME" = "Internet use:";
+
+/* Battery capacity */
+"BATTERY_CAPACITY" = "Capacity:";
+
+/* Battery state charging */
+"BATTERY_CHARGING" = "Charging";
+
+/* Battery state full */
+"BATTERY_FULL" = "Full";
+
+/* Battery percentage */
+"BATTERY_PERCENTAGE" = "Battery:";
+
+/* Remaining cell title */
+"BATTERY_REMAINING" = "Remaining...";
+
+/* Remaining standby time */
+"BATTERY_STANDBY_TIME" = "Standby time:";
+
+/* Battery state */
+"BATTERY_STATE" = "State:";
+
+/* Remaining talk time */
+"BATTERY_TALK_TIME" = "Talk time:";
+
+/* Battery state unknown */
+"BATTERY_UNKNOWN" = "Unknown";
+
+/* Battery state unplugged */
+"BATTERY_UNPLUGGED" = "Unplugged";
+
+/* Battery voltage */
+"BATTERY_VOLTAGE" = "Voltage:";
+
+/* Byte letter - ex:2.5GB */
+"BYTE" = "B";
+
+/* Cellular carrier */
+"CELL_CARRIER" = "Carrier:";
+
+/* The visible CPU core ( %li will be replaced by the number ) */
+"CPU_CORE_NUMBER" = "Core n°%li";
+
+/* Cellular data usage */
+"CELL_DATA_USAGE" = "Data Usage:";
+
+/* Cellular IP */
+"CELL_IP" = "IP:";
+
+/* CPU Activity */
+"CPU_ACTIVITY" = "Activity:";
+
+/* Number of CPU cores */
+"CPU_CORES" = "Number of cores:";
+
+/* CPU Frequency */
+"CPU_FREQUENCY" = "Frequency:";
+
+/* CPU Average load */
+"CPU_LOADAVG" = "Load Average:";
+
+/* CPU Processes */
+"CPU_PROCESSES" = "Processes:";
+
+/* CPU Type */
+"CPU_TYPE" = "Type:";
+
+/* Letter for 'day' */
+"D_DAY" = "d";
+
+/* Letter for 'hour' */
+"D_HOUR" = "h";
+
+/* Letter for 'minute' */
+"D_MINUTE" = "min";
+
+/* Device model */
+"DEVICE_MODEL" = "Model:";
+
+/* Device name */
+"DEVICE_NAME" = "Name:";
+
+/* Device uptime */
+"DEVICE_UPTIME" = "Device Uptime:";
+
+/* Active memory */
+"MEMORY_ACTIVE" = "Active:";
+
+/* Free memory */
+"MEMORY_FREE" = "Free:";
+
+/* Inactive memory */
+"MEMORY_INACTIVE" = "Inactive:";
+
+/* Wired memory */
+"MEMORY_WIRED" = "Wired:";
+
+/* Not available info */
+"NOT_AVAILABLE" = "N/A";
+
+/* Number of matching processes when searching ( %d will be replaced by the actual number ) */
+"NUMBER_MATCHING_PROCESSES" = "%d Matching processes";
+
+/* Number of processes ( %d will be replaced by the actual number ) */
+"NUMBER_PROCESSES" = "%d Processes";
+
+/* Free storage space */
+"STORAGE_FREE" = "Free:";
+
+/* Used storage space */
+"STORAGE_USED" = "Used:";
+
+/* Battery section title */
+"TITLE_BATTERY" = "BATTERY";
+
+/* Cellular section title */
+"TITLE_CELLULAR" = "CELLULAR";
+
+/* CPU section title */
+"TITLE_CPU" = "CPU";
+
+/* CPU Cores page title */
+"TITLE_CPU_TABLE" = "CPU Cores";
+
+/* Device section title */
+"TITLE_DEVICE" = "DEVICE";
+
+/* Memory section title ( %@ will be replaced by the actual amount of memory ) */
+"TITLE_MEMORY" = "MEMORY - %@";
+
+/* Titre page Processes */
+"TITLE_PROCESSES" = "Processes";
+
+/* Titre widget Storage */
+"TITLE_STORAGE" = "STORAGE - %@";
+
+/* Titre widget Wifi */
+"TITLE_WIFI" = "WIFI";
+
+/* Remaining audio playback time in the widget ( the space at the beginning is needed ) */
+"W_BATTERY_AUDIO_TIME" = " of music";
+
+/* Remaining browsing time in the widget ( the space at the beginning is needed ) */
+"W_BATTERY_BROWSING_TIME" = " browsing";
+
+/* Remaining standby time in the widget ( the space at the beginning is needed ) */
+"W_BATTERY_STANDBY_TIME" = " standby";
+
+/* Remaining talk time in the widget ( the space at the beginning is needed ) */
+"W_BATTERY_TALK_TIME" = " talk time";
+
+/* Remaining average CPU load in the widget */
+"W_CPU_AVG" = "Avg:";
+
+/* CPU cores in the widget */
+"W_CPU_CORES" = "cores";
+
+/* CPU Frequency in the widget */
+"W_CPU_FREQUENCY" = "Frequency:";
+
+/* CPU Type in the widget */
+"W_CPU_TYPE" = "CPU: ";
+
+/* Device model in the widget */
+"W_DEVICE_MODEL" = "Model:";
+
+/* Device name in the widget */
+"W_DEVICE_NAME" = "Name:";
+
+/* Device uptime in the widget */
+"W_DEVICE_UPTIME" = "Device Uptime:";
+
+/* Active memory in the widget */
+"W_MEMORY_ACTIVE" = "Active";
+
+/* Free memory in the widget */
+"W_MEMORY_FREE" = "Free";
+
+/* Inactive memory in the widget */
+"W_MEMORY_INACTIVE" = "Inactive";
+
+/* Total RAM memory in the widget */
+"W_MEMORY_TOTAL" = "Total:";
+
+/* Wired momory in the widget */
+"W_MEMORY_WIRED" = "Wired";
+
+/* Cellular network in the widget */
+"W_NETWORK_CELL" = "CELL";
+
+/* No network available in the widget */
+"W_NETWORK_NO_NETWORK" = "No Network Available";
+
+/* Wifi network in the widget */
+"W_NETWORK_WIFI" = "WIFI";
+
+/* Free storage space in the widget */
+"W_STORAGE_FREE" = "Free";
+
+/* Total storage space in the widget */
+"W_STORAGE_TOTAL" = "Total:";
+
+/* Used storage space in the widget */
+"W_STORAGE_USED" = "Used";
+
+/* Wifi data usage */
+"WIFI_DATA_USAGE" = "Data Usage:";
+
+/* Wifi essid */
+"WIFI_ESSID" = "ESSID:";
+
+/* Wifi IP */
+"WIFI_IP" = "IP:";
+
+/* Settings page title */
+"SETTINGS_TITLE" = "Settings";
+
+/* Autoreset cellular data switch */
+"SETTINGS_CELL_AUTORESET" = "Auto Reset Cell Data";
+
+/* Cellular data plan type */
+"SETTINGS_CELL_PLAN" = "Plan Type";
+
+/* Cellular data plan start date */
+"SETTINGS_CELL_START" = "Start Date";
+
+/* Data downloaded */
+"SETTINGS_DATA_DL" = "Downloaded";
+
+/* Data uploaded */
+"SETTINGS_DATA_UL" = "Uploaded";
+
+/* Reset Cellular Data */
+"SETTINGS_CELL_RESET" = "Reset Cellular Data";
+
+/* Reset Wifi Data */
+"SETTINGS_WIFI_RESET" = "Reset Wifi Data";
+
+/* Rewiew Omnistat */
+"SETTINGS_REVIEW" = "Review Omnistat";
+
+/* Cellular plan monthly */
+"PLAN_MONTHLY" = "Monthly";
+
+/* Cellular plan weekly */
+"PLAN_WEEKLY" = "Weekly";
+
+/* Cellular plan daily */
+"PLAN_DAILY" = "Daily";
+
+/* Last reset string (in the settings) */
+"LAST_RESET" = "Last Reset";
