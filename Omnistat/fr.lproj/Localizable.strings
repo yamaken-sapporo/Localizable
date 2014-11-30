@@ -7,223 +7,223 @@
 */
 
 
-/* No comment provided by engineer. */
+/* Remaining audio playback time */
 "BATTERY_AUDIO_TIME" = "Lecture audio :";
 
-/* No comment provided by engineer. */
+/* Remaining browsing time */
 "BATTERY_BROWSING_TIME" = "Navigation internet :";
 
-/* No comment provided by engineer. */
+/* Battery capacity */
 "BATTERY_CAPACITY" = "Capacité :";
 
-/* No comment provided by engineer. */
+/* Battery state charging */
 "BATTERY_CHARGING" = "En charge";
 
-/* No comment provided by engineer. */
+/* Battery state full */
 "BATTERY_FULL" = "Chargée";
 
-/* No comment provided by engineer. */
+/* Battery percentage */
 "BATTERY_PERCENTAGE" = "Batterie :";
 
-/* No comment provided by engineer. */
+/* Remaining battery */
 "BATTERY_REMAINING" = "Restant...";
 
-/* No comment provided by engineer. */
+/* Remaining standby time */
 "BATTERY_STANDBY_TIME" = "Veille :";
 
-/* No comment provided by engineer. */
+/* Battery state */
 "BATTERY_STATE" = "Etat :";
 
-/* No comment provided by engineer. */
+/* Remaining talk time */
 "BATTERY_TALK_TIME" = "Communication en 3G :";
 
-/* No comment provided by engineer. */
+/* Battery state unknown */
 "BATTERY_UNKNOWN" = "Inconnu";
 
-/* No comment provided by engineer. */
+/* Battery state unplugged */
 "BATTERY_UNPLUGGED" = "Débranchée";
 
-/* No comment provided by engineer. */
+/* Battery voltage */
 "BATTERY_VOLTAGE" = "Tension :";
 
-/* No comment provided by engineer. */
+/* Byte letter - ex:2.5GB */
 "BYTE" = "o";
 
-/* No comment provided by engineer. */
+/* Cellular carrier */
 "CELL_CARRIER" = "Opérateur :";
 
-/* No comment provided by engineer. */
+/* Cellular data usage */
 "CELL_DATA_USAGE" = "Utilisation :";
 
-/* No comment provided by engineer. */
+/* Cellular IP */
 "CELL_IP" = "IP :";
 
-/* No comment provided by engineer. */
+/* CPU Activity */
 "CPU_ACTIVITY" = "Activité :";
 
-/* No comment provided by engineer. */
+/* The visible CPU core ( %li will be replaced by the number ) */
 "CPU_CORE_NUMBER" = "Coeur n°%li";
 
-/* No comment provided by engineer. */
+/* Number of CPU cores */
 "CPU_CORES" = "Nombre de cœurs :";
 
-/* No comment provided by engineer. */
+/* CPU Frequency */
 "CPU_FREQUENCY" = "Fréquence :";
 
-/* No comment provided by engineer. */
+/* CPU Average load */
 "CPU_LOADAVG" = "Charge Moyenne :";
 
-/* No comment provided by engineer. */
+/* CPU Processes */
 "CPU_PROCESSES" = "Processus :";
 
-/* No comment provided by engineer. */
+/* CPU Type */
 "CPU_TYPE" = "Type :";
 
-/* No comment provided by engineer. */
+/* Letter for 'day' */
 "D_DAY" = "j";
 
-/* No comment provided by engineer. */
+/* Letter for 'hour' */
 "D_HOUR" = "h";
 
-/* No comment provided by engineer. */
+/* Letter for 'minute' */
 "D_MINUTE" = "min";
 
-/* No comment provided by engineer. */
+/* Device model */
 "DEVICE_MODEL" = "Modèle :";
 
-/* No comment provided by engineer. */
+/* Device name */
 "DEVICE_NAME" = "Nom :";
 
-/* No comment provided by engineer. */
+/* Device uptime */
 "DEVICE_UPTIME" = "Allumé depuis :";
 
-/* No comment provided by engineer. */
+/* Active memory */
 "MEMORY_ACTIVE" = "Active :";
 
-/* No comment provided by engineer. */
+/* Free memory */
 "MEMORY_FREE" = "Libre :";
 
-/* No comment provided by engineer. */
+/* Inactive memory */
 "MEMORY_INACTIVE" = "Inactive :";
 
-/* No comment provided by engineer. */
+/* Wired memory */
 "MEMORY_WIRED" = "Résidente :";
 
-/* No comment provided by engineer. */
+/* Not available info */
 "NOT_AVAILABLE" = "Indisponible";
 
-/* No comment provided by engineer. */
+/* Number of matching processes when searching ( %d will be replaced by the actual number ) */
 "NUMBER_MATCHING_PROCESSES" = "%d processus correspondants";
 
-/* No comment provided by engineer. */
+/* Number of processes ( %d will be replaced by the actual number ) */
 "NUMBER_PROCESSES" = "%d processus";
 
-/* No comment provided by engineer. */
+/* Free storage space */
 "STORAGE_FREE" = "Libre :";
 
-/* No comment provided by engineer. */
+/* Used storage space */
 "STORAGE_USED" = "Utilisé :";
 
-/* Titre widget Battery */
+/* Battery section title */
 "TITLE_BATTERY" = "BATTERIE";
 
-/* Titre widget Cell */
+/* Cellular section title */
 "TITLE_CELLULAR" = "CELLULAIRE";
 
-/* Titre widget CPU */
+/* CPU section title */
 "TITLE_CPU" = "PROCESSEUR";
 
-/* No comment provided by engineer. */
+/* CPU Cores page title */
 "TITLE_CPU_TABLE" = "Coeurs";
 
-/* Titre widget Device */
+/* Device section title */
 "TITLE_DEVICE" = "APPAREIL";
 
-/* Titre widget Memory */
+/* Memory section title ( %@ will be replaced by the actual amount of memory ) */
 "TITLE_MEMORY" = "MEMOIRE - %@";
 
 /* Titre page Processes */
 "TITLE_PROCESSES" = "Processus";
 
-/* Titre widget Storage */
+/* Storage section title ( %@ will be replaced by the actual amount of disk space )*/
 "TITLE_STORAGE" = "STOCKAGE - %@";
 
-/* Titre widget Wifi */
+/* Wifi section title */
 "TITLE_WIFI" = "WIFI";
 
-/* No comment provided by engineer. */
+/* Remaining audio playback time in the widget ( the space at the beginning is needed ) */
 "W_BATTERY_AUDIO_TIME" = " d'audio";
 
-/* No comment provided by engineer. */
+/* Remaining browsing time in the widget ( the space at the beginning is needed ) */
 "W_BATTERY_BROWSING_TIME" = " d'internet";
 
-/* No comment provided by engineer. */
+/* Remaining standby time in the widget ( the space at the beginning is needed ) */
 "W_BATTERY_STANDBY_TIME" = " en veille";
 
-/* No comment provided by engineer. */
+/* Remaining talk time in the widget ( the space at the beginning is needed ) */
 "W_BATTERY_TALK_TIME" = " d'appel";
 
-/* No comment provided by engineer. */
+/* Average CPU load in the widget */
 "W_CPU_AVG" = "Avg:";
 
-/* No comment provided by engineer. */
+/* CPU cores in the widget */
 "W_CPU_CORES" = "cœurs";
 
-/* No comment provided by engineer. */
+/* CPU Frequency in the widget */
 "W_CPU_FREQUENCY" = "Fréquence:";
 
-/* No comment provided by engineer. */
+/* CPU Type in the widget */
 "W_CPU_TYPE" = "CPU: ";
 
-/* No comment provided by engineer. */
+/* Device model in the widget */
 "W_DEVICE_MODEL" = "Modèle :";
 
-/* No comment provided by engineer. */
+/* Device name in the widget */
 "W_DEVICE_NAME" = "Nom :";
 
-/* No comment provided by engineer. */
+/* Device uptime in the widget */
 "W_DEVICE_UPTIME" = "Allumé depuis :";
 
-/* No comment provided by engineer. */
+/* Active memory in the widget */
 "W_MEMORY_ACTIVE" = "Active";
 
-/* No comment provided by engineer. */
+/* Free memory in the widget */
 "W_MEMORY_FREE" = "Libre";
 
-/* No comment provided by engineer. */
+/* Inactive memory in the widget */
 "W_MEMORY_INACTIVE" = "Inactive";
 
-/* No comment provided by engineer. */
+/* Total RAM memory in the widget */
 "W_MEMORY_TOTAL" = "Total :";
 
-/* No comment provided by engineer. */
+/* Wired momory in the widget */
 "W_MEMORY_WIRED" = "Résidente";
 
-/* No comment provided by engineer. */
+/* Cellular network in the widget */
 "W_NETWORK_CELL" = "CELL";
 
-/* No comment provided by engineer. */
+/* No network available in the widget */
 "W_NETWORK_NO_NETWORK" = "Aucune connexion";
 
-/* No comment provided by engineer. */
+/* Wifi network in the widget */
 "W_NETWORK_WIFI" = "WIFI";
 
-/* No comment provided by engineer. */
+/* Free storage space in the widget */
 "W_STORAGE_FREE" = "Libre";
 
-/* No comment provided by engineer. */
+/* Total storage space in the widget */
 "W_STORAGE_TOTAL" = "Total :";
 
-/* No comment provided by engineer. */
+/* Used storage space in the widget */
 "W_STORAGE_USED" = "Utilisé";
 
-/* No comment provided by engineer. */
+/* Wifi data usage */
 "WIFI_DATA_USAGE" = "Utilisation :";
 
-/* No comment provided by engineer. */
+/* Wifi essid */
 "WIFI_ESSID" = "ESSID :";
 
-/* No comment provided by engineer. */
+/* Wifi IP */
 "WIFI_IP" = "IP :";
 
 /* Settings page title */

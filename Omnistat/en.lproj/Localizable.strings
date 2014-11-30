@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   Omnistat
 
@@ -25,7 +25,7 @@
 /* Battery percentage */
 "BATTERY_PERCENTAGE" = "Battery:";
 
-/* Remaining cell title */
+/* Remaining battery */
 "BATTERY_REMAINING" = "Remaining...";
 
 /* Remaining standby time */
@@ -52,9 +52,6 @@
 /* Cellular carrier */
 "CELL_CARRIER" = "Carrier:";
 
-/* The visible CPU core ( %li will be replaced by the number ) */
-"CPU_CORE_NUMBER" = "Core n°%li";
-
 /* Cellular data usage */
 "CELL_DATA_USAGE" = "Data Usage:";
 
@@ -63,6 +60,9 @@
 
 /* CPU Activity */
 "CPU_ACTIVITY" = "Activity:";
+
+/* The visible CPU core ( %li will be replaced by the number ) */
+"CPU_CORE_NUMBER" = "Core n°%li";
 
 /* Number of CPU cores */
 "CPU_CORES" = "Number of cores:";
@@ -145,10 +145,10 @@
 /* Titre page Processes */
 "TITLE_PROCESSES" = "Processes";
 
-/* Titre widget Storage */
+/* Storage section title ( %@ will be replaced by the actual amount of disk space )*/
 "TITLE_STORAGE" = "STORAGE - %@";
 
-/* Titre widget Wifi */
+/* Wifi section title */
 "TITLE_WIFI" = "WIFI";
 
 /* Remaining audio playback time in the widget ( the space at the beginning is needed ) */
@@ -163,7 +163,7 @@
 /* Remaining talk time in the widget ( the space at the beginning is needed ) */
 "W_BATTERY_TALK_TIME" = " talk time";
 
-/* Remaining average CPU load in the widget */
+/* Average CPU load in the widget */
 "W_CPU_AVG" = "Avg:";
 
 /* CPU cores in the widget */
