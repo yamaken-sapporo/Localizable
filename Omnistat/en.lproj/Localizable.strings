@@ -1,10 +1,10 @@
 /*
-  Localizable.strings
-  Omnistat
-
-  Created by Mathieu Bolard on 11/09/2014.
-  Copyright (c) 2014 Mathieu Bolard. All rights reserved.
-*/
+ Localizable.strings
+ Omnistat
+ 
+ Created by Mathieu Bolard on 11/09/2014.
+ Copyright (c) 2014 Mathieu Bolard. All rights reserved.
+ */
 
 
 /* Remaining audio playback time */
@@ -25,7 +25,7 @@
 /* Battery percentage */
 "BATTERY_PERCENTAGE" = "Battery:";
 
-/* Remaining battery */
+/* Remaining cell title */
 "BATTERY_REMAINING" = "Remaining...";
 
 /* Remaining standby time */
@@ -52,6 +52,9 @@
 /* Cellular carrier */
 "CELL_CARRIER" = "Carrier:";
 
+/* The visible CPU core ( %li will be replaced by the number ) */
+"CPU_CORE_NUMBER" = "Core n°%li";
+
 /* Cellular data usage */
 "CELL_DATA_USAGE" = "Data Usage:";
 
@@ -60,9 +63,6 @@
 
 /* CPU Activity */
 "CPU_ACTIVITY" = "Activity:";
-
-/* The visible CPU core ( %li will be replaced by the number ) */
-"CPU_CORE_NUMBER" = "Core n°%li";
 
 /* Number of CPU cores */
 "CPU_CORES" = "Number of cores:";
@@ -145,10 +145,10 @@
 /* Titre page Processes */
 "TITLE_PROCESSES" = "Processes";
 
-/* Storage section title ( %@ will be replaced by the actual amount of disk space )*/
+/* Titre widget Storage */
 "TITLE_STORAGE" = "STORAGE - %@";
 
-/* Wifi section title */
+/* Titre widget Wifi */
 "TITLE_WIFI" = "WIFI";
 
 /* Remaining audio playback time in the widget ( the space at the beginning is needed ) */
@@ -163,7 +163,7 @@
 /* Remaining talk time in the widget ( the space at the beginning is needed ) */
 "W_BATTERY_TALK_TIME" = " talk time";
 
-/* Average CPU load in the widget */
+/* Remaining average CPU load in the widget */
 "W_CPU_AVG" = "Avg:";
 
 /* CPU cores in the widget */
@@ -264,3 +264,22 @@
 
 /* Last reset string (in the settings) */
 "LAST_RESET" = "Last Reset";
+
+/* Watch app Battery title */
+"WATCH_BATTERY_TITLE" = "Battery";
+
+/* Watch app Network title */
+"WATCH_NETWORK_TITLE" = "Network";
+
+/* Watch app CPU title */
+"WATCH_CPU_TITLE" = "CPU";
+
+/* Watch app Storage title */
+"WATCH_STORAGE_TITLE" = "Storage";
+
+/* Translation credits */
+/* Translation by ( %@ will be replaced by your name ) */
+"TRANSLATION_BY" = "";
+
+/* Your name for the translation credits */
+"TRANSLATION_NAME" = "";

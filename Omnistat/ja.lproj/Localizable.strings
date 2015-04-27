@@ -1,266 +1,285 @@
 /*
-  Localizable.strings
-  Omnistat
-
-  Created by Mathieu Bolard on 11/09/2014.
-  Copyright (c) 2014 Mathieu Bolard. All rights reserved.
-*/
+ Localizable.strings
+ Omnistat
+ 
+ Created by Mathieu Bolard on 11/09/2014.
+ Copyright (c) 2014 Mathieu Bolard. All rights reserved.
+ */
 
 
 /* Remaining audio playback time */
-"BATTERY_AUDIO_TIME" = “連続音楽再生時間:”;
+"BATTERY_AUDIO_TIME" = "連続音楽再生時間:";
 
 /* Remaining browsing time */
-"BATTERY_BROWSING_TIME" = “ブラウジング時間:”;
+"BATTERY_BROWSING_TIME" = "ブラウジング時間:";
 
 /* Battery capacity */
-"BATTERY_CAPACITY" = “容量:”;
+"BATTERY_CAPACITY" = "容量:";
 
 /* Battery state charging */
-"BATTERY_CHARGING" = “充電中”;
+"BATTERY_CHARGING" = "充電中";
 
 /* Battery state full */
-"BATTERY_FULL" = “満充電”;
+"BATTERY_FULL" = "満充電";
 
 /* Battery percentage */
-"BATTERY_PERCENTAGE" = “バッテリー:”;
+"BATTERY_PERCENTAGE" = "バッテリー:";
 
 /* Remaining battery */
-"BATTERY_REMAINING" = “残り時間”;
+"BATTERY_REMAINING" = "残り時間";
 
 /* Remaining standby time */
-"BATTERY_STANDBY_TIME" = “待ち受け時間:”;
+"BATTERY_STANDBY_TIME" = "待ち受け時間:";
 
 /* Battery state */
-"BATTERY_STATE" = “状況:”;
+"BATTERY_STATE" = "状況:";
 
 /* Remaining talk time */
-"BATTERY_TALK_TIME" = “連続通話時間:”;
+"BATTERY_TALK_TIME" = "連続通話時間:";
 
 /* Battery state unknown */
-"BATTERY_UNKNOWN" = “不明”;
+"BATTERY_UNKNOWN" = "不明";
 
 /* Battery state unplugged */
-"BATTERY_UNPLUGGED" = “未充電”;
+"BATTERY_UNPLUGGED" = "未充電";
 
 /* Battery voltage */
-"BATTERY_VOLTAGE" = “電圧:”;
+"BATTERY_VOLTAGE" = "電圧:";
 
 /* Byte letter - ex:2.5GB */
 "BYTE" = "B";
 
 /* Cellular carrier */
-"CELL_CARRIER" = “ネットワーク:”;
+"CELL_CARRIER" = "ネットワーク:";
 
 /* Cellular data usage */
-"CELL_DATA_USAGE" = “モバイルデータ通信量:”;
+"CELL_DATA_USAGE" = "モバイルデータ通信量:";
 
 /* Cellular IP */
-"CELL_IP" = "IPアドレス:”;
+"CELL_IP" = "IPアドレス:";
 
 /* CPU Activity */
-"CPU_ACTIVITY" = “使用率:”;
+"CPU_ACTIVITY" = "使用率:";
 
 /* The visible CPU core ( %li will be replaced by the number ) */
-"CPU_CORE_NUMBER" = “コア%li";
+"CPU_CORE_NUMBER" = "コア%li";
 
 /* Number of CPU cores */
-"CPU_CORES" = “CPUコア数:”;
+"CPU_CORES" = "CPUコア数:";
 
 /* CPU Frequency */
-"CPU_FREQUENCY" = “動作周波数:”;
+"CPU_FREQUENCY" = "動作周波数:";
 
 /* CPU Average load */
-"CPU_LOADAVG" = “ロードアベレージ:”;
+"CPU_LOADAVG" = "ロードアベレージ:";
 
 /* CPU Processes */
-"CPU_PROCESSES" = “プロセス数:”;
+"CPU_PROCESSES" = "プロセス数:";
 
 /* CPU Type */
-"CPU_TYPE" = “CPUタイプ:”;
+"CPU_TYPE" = "CPUタイプ:";
 
 /* Letter for 'day' */
-"D_DAY" = “日”;
+"D_DAY" = "日";
 
 /* Letter for 'hour' */
-"D_HOUR" = “時間”;
+"D_HOUR" = "時間";
 
 /* Letter for 'minute' */
-"D_MINUTE" = “分”;
+"D_MINUTE" = "分";
 
 /* Device model */
-"DEVICE_MODEL" = “モデル:”;
+"DEVICE_MODEL" = "モデル:";
 
 /* Device name */
-"DEVICE_NAME" = “名前:”;
+"DEVICE_NAME" = "名前:";
 
 /* Device uptime */
-"DEVICE_UPTIME" = “使用時間:”;
+"DEVICE_UPTIME" = "使用時間:";
 
 /* Active memory */
-"MEMORY_ACTIVE" = “利用中:”;
+"MEMORY_ACTIVE" = "利用中:";
 
 /* Free memory */
-"MEMORY_FREE" = “空き:”;
+"MEMORY_FREE" = "空き:";
 
 /* Inactive memory */
-"MEMORY_INACTIVE" = “非利用中:”;
+"MEMORY_INACTIVE" = "非利用中:";
 
 /* Wired memory */
-"MEMORY_WIRED" = “システム用:”;
+"MEMORY_WIRED" = "システム用:";
 
 /* Not available info */
-"NOT_AVAILABLE" = “利用不可”;
+"NOT_AVAILABLE" = "利用不可";
 
 /* Number of matching processes when searching ( %d will be replaced by the actual number ) */
-"NUMBER_MATCHING_PROCESSES" = “検索結果 (%d件)”;
+"NUMBER_MATCHING_PROCESSES" = "検索結果 (%d件)";
 
 /* Number of processes ( %d will be replaced by the actual number ) */
-"NUMBER_PROCESSES" = "%d プロセス”;
+"NUMBER_PROCESSES" = "%d プロセス";
 
 /* Free storage space */
-"STORAGE_FREE" = “空き:”;
+"STORAGE_FREE" = "空き:";
 
 /* Used storage space */
-"STORAGE_USED" = “使用中:”;
+"STORAGE_USED" = "使用中:";
 
 /* Battery section title */
-"TITLE_BATTERY" = “バッテリー”;
+"TITLE_BATTERY" = "バッテリー";
 
 /* Cellular section title */
-"TITLE_CELLULAR" = “モバイルデータ通信”;
+"TITLE_CELLULAR" = "モバイルデータ通信";
 
 /* CPU section title */
 "TITLE_CPU" = "CPU";
 
 /* CPU Cores page title */
-"TITLE_CPU_TABLE" = "CPUコア別”;
+"TITLE_CPU_TABLE" = "CPUコア別";
 
 /* Device section title */
-"TITLE_DEVICE" = “デバイス”;
+"TITLE_DEVICE" = "デバイス";
 
 /* Memory section title ( %@ will be replaced by the actual amount of memory ) */
-"TITLE_MEMORY" = “メモリ - %@";
+"TITLE_MEMORY" = "メモリ - %@";
 
 /* Titre page Processes */
-"TITLE_PROCESSES" = “プロセス”;
+"TITLE_PROCESSES" = "プロセス";
 
 /* Storage section title ( %@ will be replaced by the actual amount of disk space )*/
-"TITLE_STORAGE" = “ストレージ - %@";
+"TITLE_STORAGE" = "ストレージ - %@";
 
 /* Wifi section title */
 "TITLE_WIFI" = "WIFI";
 
 /* Remaining audio playback time in the widget ( the space at the beginning is needed ) */
-"W_BATTERY_AUDIO_TIME" = " 連続音楽再生”;
+"W_BATTERY_AUDIO_TIME" = " 連続音楽再生";
 
 /* Remaining browsing time in the widget ( the space at the beginning is needed ) */
-"W_BATTERY_BROWSING_TIME" = " ブラウジング”;
+"W_BATTERY_BROWSING_TIME" = " ブラウジング";
 
 /* Remaining standby time in the widget ( the space at the beginning is needed ) */
-"W_BATTERY_STANDBY_TIME" = " 連続待受”;
+"W_BATTERY_STANDBY_TIME" = " 連続待受";
 
 /* Remaining talk time in the widget ( the space at the beginning is needed ) */
-"W_BATTERY_TALK_TIME" = " 連続通話”;
+"W_BATTERY_TALK_TIME" = " 連続通話";
 
 /* Average CPU load in the widget */
-"W_CPU_AVG" = “アベレージ:”;
+"W_CPU_AVG" = "アベレージ:";
 
 /* CPU cores in the widget */
-"W_CPU_CORES" = “コア”;
+"W_CPU_CORES" = "コア";
 
 /* CPU Frequency in the widget */
-"W_CPU_FREQUENCY" = “動作周波数:”;
+"W_CPU_FREQUENCY" = "動作周波数:";
 
 /* CPU Type in the widget */
 "W_CPU_TYPE" = "CPU: ";
 
 /* Device model in the widget */
-"W_DEVICE_MODEL" = “モデル:”;
+"W_DEVICE_MODEL" = "モデル:";
 
 /* Device name in the widget */
-"W_DEVICE_NAME" = “名前:”;
+"W_DEVICE_NAME" = "名前:";
 
 /* Device uptime in the widget */
-"W_DEVICE_UPTIME" = “使用時間:”;
+"W_DEVICE_UPTIME" = "使用時間:";
 
 /* Active memory in the widget */
-"W_MEMORY_ACTIVE" = “利用中”;
+"W_MEMORY_ACTIVE" = "利用中";
 
 /* Free memory in the widget */
-"W_MEMORY_FREE" = “空き”;
+"W_MEMORY_FREE" = "空き";
 
 /* Inactive memory in the widget */
-"W_MEMORY_INACTIVE" = “非利用中”;
+"W_MEMORY_INACTIVE" = "非利用中";
 
 /* Total RAM memory in the widget */
-"W_MEMORY_TOTAL" = “トータル:”;
+"W_MEMORY_TOTAL" = "トータル:";
 
 /* Wired momory in the widget */
-"W_MEMORY_WIRED" = “システム用”;
+"W_MEMORY_WIRED" = "システム用";
 
 /* Cellular network in the widget */
-"W_NETWORK_CELL" = “モバイルデータ通信”;
+"W_NETWORK_CELL" = "モバイルデータ通信";
 
 /* No network available in the widget */
-"W_NETWORK_NO_NETWORK" = “ネットワーク利用不可”;
+"W_NETWORK_NO_NETWORK" = "ネットワーク利用不可";
 
 /* Wifi network in the widget */
 "W_NETWORK_WIFI" = "WIFI";
 
 /* Free storage space in the widget */
-"W_STORAGE_FREE" = “空き”;
+"W_STORAGE_FREE" = "空き";
 
 /* Total storage space in the widget */
-"W_STORAGE_TOTAL" = “トータル:”;
+"W_STORAGE_TOTAL" = "トータル:";
 
 /* Used storage space in the widget */
-"W_STORAGE_USED" = “使用中”;
+"W_STORAGE_USED" = "使用中";
 
 /* Wifi data usage */
-"WIFI_DATA_USAGE" = “wifiデータ通信量:";
+"WIFI_DATA_USAGE" = "wifiデータ通信量:";
 
 /* Wifi essid */
 "WIFI_ESSID" = "ESSID:";
 
 /* Wifi IP */
-"WIFI_IP" = "IPアドレス:”;
+"WIFI_IP" = "IPアドレス:";
 
 /* Settings page title */
-"SETTINGS_TITLE" = “設定”;
+"SETTINGS_TITLE" = "設定";
 
 /* Autoreset cellular data switch */
-"SETTINGS_CELL_AUTORESET" = “モバイルデータ通信量の自動リセット”;
+"SETTINGS_CELL_AUTORESET" = "モバイルデータ通信量の自動リセット";
 
 /* Cellular data plan type */
-"SETTINGS_CELL_PLAN" = “リセット期間”;
+"SETTINGS_CELL_PLAN" = "リセット期間";
 
 /* Cellular data plan start date */
-"SETTINGS_CELL_START" = “リセット日”;
+"SETTINGS_CELL_START" = "リセット日";
 
 /* Data downloaded */
-"SETTINGS_DATA_DL" = “ダウンロード”;
+"SETTINGS_DATA_DL" = "ダウンロード";
 
 /* Data uploaded */
-"SETTINGS_DATA_UL" = “アップロード”;
+"SETTINGS_DATA_UL" = "アップロード";
 
 /* Reset Cellular Data */
-"SETTINGS_CELL_RESET" = “統計情報のリセット”;
+"SETTINGS_CELL_RESET" = "統計情報のリセット";
 
 /* Reset Wifi Data */
-"SETTINGS_WIFI_RESET" = “統計情報のリセット";
+"SETTINGS_WIFI_RESET" = "統計情報のリセット";
 
 /* Rewiew Omnistat */
-"SETTINGS_REVIEW" = "Omnistatのレビュー”;
+"SETTINGS_REVIEW" = "Omnistatのレビュー";
 
 /* Cellular plan monthly */
-"PLAN_MONTHLY" = “月毎”;
+"PLAN_MONTHLY" = "月毎";
 
 /* Cellular plan weekly */
-"PLAN_WEEKLY" = “周毎”;
+"PLAN_WEEKLY" = "周毎";
 
 /* Cellular plan daily */
-"PLAN_DAILY" = “日毎”;
+"PLAN_DAILY" = "日毎";
 
 /* Last reset string (in the settings) */
-"LAST_RESET" = “前回のリセット日時”;
+"LAST_RESET" = "前回のリセット日時";
+
+/* Watch app Battery title */
+"WATCH_BATTERY_TITLE" = "バッテリー";
+
+/* Watch app Network title */
+"WATCH_NETWORK_TITLE" = "ネットワーク";
+
+/* Watch app CPU title */
+"WATCH_CPU_TITLE" = "CPU";
+
+/* Watch app Storage title */
+"WATCH_STORAGE_TITLE" = "ストレージ";
+
+/* Translation credits */
+/* Translation by ( %@ will be replaced by your name ) */
+"TRANSLATION_BY" = "%@による日本語訳";
+
+/* Your name for the translation credits */
+"TRANSLATION_NAME" = "Ken-ichi Yamada";
