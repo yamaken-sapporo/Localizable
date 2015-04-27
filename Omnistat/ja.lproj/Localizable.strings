@@ -230,7 +230,7 @@
 "SETTINGS_TITLE" = "設定";
 
 /* Autoreset cellular data switch */
-"SETTINGS_CELL_AUTORESET" = "モバイルデータ通信量の自動リセット";
+"SETTINGS_CELL_AUTORESET" = "統計の自動リセット";
 
 /* Cellular data plan type */
 "SETTINGS_CELL_PLAN" = "リセット期間";
